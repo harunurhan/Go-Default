@@ -1,4 +1,4 @@
-Default-Go
+Go-Default
 ==========
 
 This is simple random-infinite platformer and jump game in Unity,
