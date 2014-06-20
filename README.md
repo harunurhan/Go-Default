@@ -1,9 +1,9 @@
 Go-Default
 ==========
 
-This is simple random-infinite platformer and jump game in Unity,
-uses default game objects. I will make gameplay and game balance better If I have time to.
-
+This is a simple, random infinite random platform game. Gameplay and difficulty balance is not good enough,
+I built this in a short period, and I thought that it might be useful for people who just started building games
+in unity3d.
 ##### Might be an example of couple of things listed below:
 
 - How to build simple infinite platform randomly in game time.
@@ -19,4 +19,3 @@ It moves forward automatically, try not to fall and hit blocks. Collect as much 
 If you hit blocks five times, game over !
 
 **A**: `jumps a little bit`, **S**: `jumps OK`, **D**:`jumps very long`
-
